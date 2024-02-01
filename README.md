@@ -54,13 +54,11 @@ The model is compiled using the Adam optimizer and categorical crossentropy loss
 
 ## Results
 
-**Single Test (#1) :**
+**Test (#1) :**
 
+![Screenshot (143)](https://github.com/Bhudil/Live_Emo_Det/assets/99169324/4e8d3d76-6b18-48fc-a36b-3ded15abf804)
 
-**Single Test (#2) :**
+**Test (#2) :**
 
+![Screenshot (141)](https://github.com/Bhudil/Live_Emo_Det/assets/99169324/17825c48-723c-49a7-9a76-ab7cfe9c6bba)
 
-**Multi Test (#1) :**
-
-
-**Multi Test (#1) :**
